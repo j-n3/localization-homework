@@ -11,4 +11,4 @@ Toute la documentation pertinente est disponible à l'adresse https://help.memso
 
 Vous devrez vous inscrire à un essai de l'édition Memsource **Ultimate** à l'adresse https://www.memsource.com/pricing/
 
-Vous pouvez modifier cette phrase pour démontrer comment une modification de ce fichier déclenche le flux de travail de localisation automatisé.
+Vous pouvez modifier cette phrase pour démontrer comment une modification de ce fichier déclenche le flux de travail de localisation automatisé. La modification de phrase pour tester la configuration automatisée de la traduction fonctionne comme prévu
