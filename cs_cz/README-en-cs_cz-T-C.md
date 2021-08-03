@@ -11,4 +11,4 @@ Veškerá příslušná dokumentace je k dispozici na adrese https://help.memsou
 
 Zkušební verzi edice Memsource **Ultimate** se budete muset zaregistrovat na adrese https://www.memsource.com/pricing/
 
-Tuto větu můžete upravit tak, aby se zmenšil způsob, jakým změna tohoto souboru spouští automatický pracovní postup lokalizace.
+Tuto větu můžete upravit tak, aby se zmenšil způsob, jakým změna tohoto souboru spouští automatický pracovní postup lokalizace. Změna věty k testování automatického nastavení překladu funguje podle očekávání
